@@ -3,7 +3,7 @@ GNU toolchain for AndesCore
 
 ###  Getting the sources
 
-    $ git clone https://github.com/andestech/nds-gnu-toolchain.git -b <branch_name>
+    $ git clone https://github.com/dangbinghoo/nds-gnu-toolchain.git -b gitmodule-https
     $ git submodule update --init --recursive
 
 ### Prerequisites
